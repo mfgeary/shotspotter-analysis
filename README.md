@@ -11,7 +11,7 @@ You might have to set up an SSH key with your GitHub account. [Here](https://doc
 
 Now go back to your terminal and enter the command `git clone git@github.com:mfgeary/...`.
 
-The files should now be downloaded on your device. Change them however you want. When you are ready to commit your changes to the GitHub repository, go back to the terminal and enter `git add *.ipynb`. Then enter `git commit`. A VIM editor will probably open on your computer. Add a commit message - give a brief explanation of the changes that you have made to the files. To edit on VIM, press "I" and then you can type. Save your commit message! (Type `:wq` if using VIM).
+The files should now be downloaded on your device. Change them however you want. When you are ready to commit your changes to the GitHub repository, go back to the terminal and enter `git add *.ipynb`. Then enter `git commit`. A VIM editor will probably open on your computer. Add a commit message - give a brief explanation of the changes that you have made to the files. To edit on VIM, press `I` and then you can type. Save your commit message! (Type `:wq` if using VIM).
 
 Now you are ready to push your changes! Since this is a group project, first enter `git pull` to pull any changes made by other group members. Then enter `git push` to push your code to the GitHub repository.
 
